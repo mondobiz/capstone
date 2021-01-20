@@ -5,4 +5,10 @@ python
 django
 pip 
 react
-pylint
+
+Thrash Box
+image:
+name:
+like:
+comment:
+delete:
